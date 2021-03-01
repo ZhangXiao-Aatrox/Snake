@@ -1,0 +1,11 @@
+﻿  food.cpp
+  snake.cpp
+  tan_chi_she1.cpp
+C:\Users\99255\Desktop\tan_chi_she1\tan_chi_she1\snake.h(10,2): warning C4091: “typedef ”: 没有声明变量时忽略“Dir”的左侧
+  UI.cpp
+  unit.cpp
+C:\Users\99255\Desktop\tan_chi_she1\tan_chi_she1\snake.h(10,2): warning C4091: “typedef ”: 没有声明变量时忽略“Dir”的左侧
+C:\Users\99255\Desktop\tan_chi_she1\tan_chi_she1\unit.cpp(27,16): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+  正在生成代码...
+C:\Users\99255\Desktop\tan_chi_she1\tan_chi_she1\unit.cpp(27,18): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+  tan_chi_she1.vcxproj -> C:\Users\99255\Desktop\tan_chi_she1\Debug\tan_chi_she1.exe
